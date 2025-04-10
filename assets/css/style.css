@@ -157,13 +157,13 @@ ul li {
     float: right;
     width: 50%;
     margin-right: 0!important;
-    margin-bottom: 50px!important;
+    margin-bottom: 5px!important;
 }
 .modal-footer button:nth-child(odd) {
-    margin-left: 50px!important;
+    margin-left: 5px!important;
 }
 .modal-footer button:nth-child(even) {
-    width: calc(50% - 50px)
+    width: calc(50% - 5px)
 }
 .modal-body .alert {
     margin: 0;
